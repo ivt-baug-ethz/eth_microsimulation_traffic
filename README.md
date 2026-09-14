@@ -28,7 +28,7 @@ The course introduces basics of microscopic modelling and simulation of traffic 
 **Upon completion of the course, you will be able to:**
 - Understand the basic models used in microsimulation software (car-following, lane changing, gap acceptance, give ways, on/off-ramps, etc.).
 - Design a road transport network inside the simulation software.
-- Understand the basics behind modeling traffic demand and supply, vehicle dynam-ics, performance indicators for evaluation and network design for a realistic road transport network.
+- Understand the basics behind modeling traffic demand and supply, vehicle dynamics, performance indicators for evaluation and network design for a realistic road transport network.
 - Understand how to design a complete study, implement and validate it for planning purposes, e.g. creating a new road infrastructure.
 - Make valid and concrete engineering proposals based on the simulation model and alternative scenarios.
 
